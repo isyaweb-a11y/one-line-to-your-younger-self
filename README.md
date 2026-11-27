@@ -1,8 +1,8 @@
 # One Line to Your Younger Self
 
 [![make.fun · u-boothlord-one-line-to-your-younger-self-22e97f76](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
-[![make.fun leaderboard](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76-leaderboard.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76/leaderboard)
-[![make.fun reward](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76-reward.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76)
+[![rank](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76/isyaweb-a11y/one-line-to-your-younger-self/rank.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
+[![reward](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76/isyaweb-a11y/one-line-to-your-younger-self/reward.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
 
 The single line you would send your younger self if one line were all you got — written by `main.py` to `/output/entry.txt`:
 
